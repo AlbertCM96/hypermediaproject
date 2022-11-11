@@ -1,0 +1,112 @@
+
+
+
+body {
+	
+	
+	background-color: RGB(0,0,75);
+	font-family: Trebuchet MS;
+	
+}
+
+h1 {
+	
+	font-family: Papyrus;
+	color: white;
+	position: relative;
+	left: 5cm;
+	font-size: 1.5cm
+}
+
+h2 {
+	
+	font-family: Papyrus;
+	color: yellow
+	
+}
+h3{
+
+	font-family: Papyrus;
+	color: white
+}
+#capcalera{
+
+		font-family: Papyrus;
+		color: white
+
+}
+
+#header {
+	
+	position:fixed;
+	top:0; left:0;
+	background-color: RGB(0,0,75);
+	width: 33cm;
+	z-index: 1;
+}
+
+
+#main {
+	
+	position: relative;
+	top: 4.3cm;
+	width: 28cm;
+	left: 4.78cm;
+	background-color: black;
+	color: white;
+}
+
+#MainTable {
+	
+	padding: 1cm;
+}
+
+#info {
+	
+	color: white;
+	width: 7cm;
+	border-style: double;
+	border-color: gray;
+	text-align: right;
+}
+
+#info th{
+	
+	border-style: double;
+	border-color: gray;
+	
+}
+
+
+#text{
+	
+	color: RGB(140,140,140);
+	position: relative;
+	left: 1cm;
+	width: 10cm;
+	
+	text-align: left;
+	
+}
+
+#FotoAndInfo {
+	
+	position: absolute;
+	right: 5cm;
+	top: 3cm;
+
+	color: white;
+	
+}
+
+#contentFoto {
+
+		width: 7cm;
+
+}
+
+b {
+	
+	
+	color:RGB(150, 0, 150);
+}
